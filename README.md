@@ -1,2 +1,2 @@
-# PrepCourse-Henry1
-Este es un Repositorio de Prueba del Modulo 2 del PrepCourse de Henry
+Soy Rodrigo Sebastian Martinez. 
+Este es un proyecto sobre como aprender a crear un repositorio Remoto
